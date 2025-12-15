@@ -1,5 +1,5 @@
 # Description
-This document contains the basic metadata and descriptions for the <code>sysc_buildings_retrofit_inventory</code> geopackage. <code>sysc_buildings_retrofit_inventory</code> contains building-level modelled data on residential embodied and operational carbon emissions associated with different retorfit scenarios. An extended explanation of the modelling undertaken can be found in [Zune et al. (2026)](). Note the the provided values are indicative estimates based on worst case assumption about the performance of the existing buildings in 2025. Carbon factors used for grid electricity and gas are also reflect UK national emission factors in 2025.
+This document contains the basic metadata and descriptions for the <code>sysc_buildings_retrofit_inventory</code> geopackage. <code>sysc_buildings_retrofit_inventory</code> contains building-level modelled data on residential embodied and operational carbon emissions associated with different retorfit scenarios. An extended explanation of the modelling undertaken can be found in [Zune et al. (2025)](http://dx.doi.org/10.2139/ssrn.5909647). Note the the provided values are indicative estimates based on worst case assumption about the performance of the existing buildings in 2025. Carbon factors used for grid electricity and gas are also reflect UK national emission factors in 2025.
 
 This work was funded by Research England as part of the South Yorkshire Sustainability Centre at the University of Sheffield.
 
@@ -7,7 +7,7 @@ Cite this data product as
 > Zune, M., Arbabi, H., Densley Tingley, D. (2025). Regional Retrofit, Net-Zero Aspirations, and their Whole Life Carbon Burden: South Yorkshire Residential Buildings Retrofit Inventory. [DOI HERE]()
 
 along with its accompanying research output as
-> Zune, M., Arbabi, H., Densley Tingley, D. (2026). Regional Retrofit, Net-Zero Aspirations, and their Whole Life Carbon Burden. [DOI HERE]()
+> Zune, M., Arbabi, H., Densley Tingley, D. (November 26, 2025). Regional Retrofit, Net-Zero Aspirations, and their Whole Life Carbon Burden. Available at SSRN: https://ssrn.com/abstract=5909647. doi: [10.2139/ssrn.5909647](http://dx.doi.org/10.2139/ssrn.5909647)
 
 
 # Data fields
@@ -82,4 +82,5 @@ Coordinate Operation:
 
 Datum: Ordnance Survey of Great Britain 1936
 - Ellipsoid: Airy 1830
+
 - Prime Meridian: Greenwich
