@@ -1,10 +1,10 @@
 # Description
-This document contains the basic metadata and descriptions for the <code>sysc_buildings_retrofit_inventory</code> geopackage. <code>sysc_buildings_retrofit_inventory</code> contains building-level modelled data on residential embodied and operational carbon emissions associated with different retorfit scenarios. An extended explanation of the modelling undertaken can be found in [Zune et al. (2025)](http://dx.doi.org/10.2139/ssrn.5909647). Note the the provided values are indicative estimates based on worst case assumption about the performance of the existing buildings in 2025. Carbon factors used for grid electricity and gas are also reflect UK national emission factors in 2025.
+This document contains the basic metadata and descriptions for the <code>sysc_buildings_retrofit_inventory</code> geopackage. <code>sysc_buildings_retrofit_inventory</code> contains building-level modelled data on residential embodied and operational carbon emissions associated with different retrofit scenarios. An extended explanation of the modelling undertaken can be found in [Zune et al. (2025)](http://dx.doi.org/10.2139/ssrn.5909647). Note that the provided values are indicative estimates based on worst case assumption about the performance of the existing buildings in 2025. Carbon factors used for grid electricity and gas are also reflect UK national emission factors in 2025.
 
 This work was funded by Research England as part of the South Yorkshire Sustainability Centre at the University of Sheffield.
 
 Cite this data product as
-> Zune, M., Arbabi, H., Densley Tingley, D. (2025). Regional Retrofit, Net-Zero Aspirations, and their Whole Life Carbon Burden: South Yorkshire Residential Buildings Retrofit Inventory. [DOI HERE]()
+> Zune, M., Arbabi, H., Densley Tingley, D. (2025). Regional Retrofit, Net-Zero Aspirations, and their Whole Life Carbon Burden: South Yorkshire Residential Buildings Retrofit Inventory. doi: [10.15131/shef.data.30883736](http://dx.doi.org/10.15131/shef.data.30883736)
 
 along with its accompanying research output as
 > Zune, M., Arbabi, H., Densley Tingley, D. (November 26, 2025). Regional Retrofit, Net-Zero Aspirations, and their Whole Life Carbon Burden. Available at SSRN: https://ssrn.com/abstract=5909647. doi: [10.2139/ssrn.5909647](http://dx.doi.org/10.2139/ssrn.5909647)
@@ -69,8 +69,8 @@ Projected CRS: EPSG:27700
 Name: OSGB36 / British National Grid 
 
 Axis Info [cartesian]:
-- Easting (metre)
-- Northing (metre)
+- Easting (meter)
+- Northing (meter)
 
 Area of Use:
 - United Kingdom (UK) - offshore to boundary of UKCS within 49°45N to 61°N and 9°W to 2°E; onshore Great Britain (England, Wales and Scotland). Isle of Man onshore.
@@ -84,3 +84,4 @@ Datum: Ordnance Survey of Great Britain 1936
 - Ellipsoid: Airy 1830
 
 - Prime Meridian: Greenwich
+
